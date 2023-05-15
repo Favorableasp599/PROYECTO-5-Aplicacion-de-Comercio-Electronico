@@ -96,6 +96,6 @@ DESPLIEGUE
 ****
 
 ## 5. URL
-Despliegue URL En esta parte se Agrega el url de la pagina hecho atrabes de 
+Despliegue URL En esta parte se Agrega el url de la pagina hecho a través de 
 
 ****
